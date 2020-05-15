@@ -1,4 +1,4 @@
-
+#include "ADC.h"
 void setup() {
   
 
